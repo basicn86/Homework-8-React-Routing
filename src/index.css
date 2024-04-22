@@ -7,7 +7,31 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+p{
+  width: 400px;
+}
+
+h1{
+  width: fit-content;
+}
+
+ul{
+  width: fit-content;
+}
+
+.MainContent{
+  margin: auto;
+  width: fit-content;
+}
+
+.MainContent h2{
+  width: fit-content;
+}
+
+.active{
+  background-color: lightblue;
+}
+
+#validation{
+  margin: auto;
 }
